@@ -1,0 +1,8 @@
+{
+  "name": "ZUN // DIGITAL PLAYGROUND",
+  "description": "Production-grade interactive 3D developer portfolio of SK Zuniad Ahammad — Full-Stack Developer & AI Explorer featuring miniature 3D worlds, pausable interactive entities, retro terminal, and project showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
